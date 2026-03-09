@@ -1,3 +1,6 @@
+# Parcel manager
+Written in java, tui program for fictional postal company
+
 Commands:
 ```
 help <command> - display help message
