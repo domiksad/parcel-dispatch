@@ -1,7 +1,12 @@
 # Parcel manager
 Written in java, tui program for fictional postal company
 
-Commands:
+## How to run:
+- java 25 
+- maven
+`mvn clean compile exec:java`
+
+## Commands:
 ```
 help <command> - display help message
 
